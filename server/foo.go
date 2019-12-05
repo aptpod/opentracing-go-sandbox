@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aptpod/opentracing-sandbox/lib"
+	"github.com/aptpod/opentracing-go-sandbox/lib"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"
 )
